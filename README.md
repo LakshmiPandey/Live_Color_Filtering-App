@@ -12,10 +12,10 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________
 
 Various steps taken are:
-1)Initialising the color bound you want to filter.
-2)Converting the image to HSV.
-3)Masking the image to that color bound you want to filter.
-4)Bitwise anding the original frame to get the required result.
+1) Initialising the color bound you want to filter.
+2) Converting the image to HSV.
+3) Masking the image to that color bound you want to filter.
+4) Bitwise anding the original frame to get the required result.
 
 _____________________________________________________________________________________________
 
